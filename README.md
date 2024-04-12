@@ -3,6 +3,6 @@
 - 🥔 I’m interested about **Red team** and **Purple team** stuffs
 - 🌱 I’m currently learning about physical security, (Azure) Active Directory security and EDR bypasses.
 - 🍠 How to reach me : @Prepouce_
-- 🧰 Our [shared shitsheets](https://github.com/Prinegheuls/Pentest-shitsheets) 
+- 🧰 Our [shared shitsheets](https://github.com/Prinegheuls/Pentest-cheatsheet) ([private one](https://github.com/Prinegheuls/Pentest-shitsheets)) 
 
 
